@@ -1,5 +1,4 @@
 ## Fragments
-Segment your app into multiple, independent screens that are hosted within an Activity.
 ### Declaring dependencies:
 Add the dependencies for the artifacts you need in the build.gradle file for your app or module.
 ```gradle
