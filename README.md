@@ -1,4 +1,4 @@
-## Fragments
+# Fragment
 ### Declaring dependencies:
 Add the dependencies for the artifacts you need in the build.gradle file for your app or module.
 ```gradle
